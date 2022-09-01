@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6287760550924','6287752078797','6289695760394']
-global.premium = ['6287760550924']
+global.owner = ['62881027882610','6287760550924','62881027882610']
+global.premium = ['62881027882610']
 global.packname = 'Gilang Bot-MD'
 global.author = 'Whatsap Bot'
 global.sessionName = 'hisoka'
