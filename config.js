@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By yusuf.
+   * Contact Me on wa.me/6285158121779
+   * Follow https://github.com/CloverGameSpot1
 */
 
 const fs = require('fs')
@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62881027882610','6287760550924','62881027882610']
-global.premium = ['62881027882610']
-global.packname = 'Gilang Bot-MD'
+global.owner = ['6285158121779','6285228679898','6285158121779']
+global.premium = ['6285158121779']
+global.packname = 'Clover Bot-MD'
 global.author = 'Whatsap Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
